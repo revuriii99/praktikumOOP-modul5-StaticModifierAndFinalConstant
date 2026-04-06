@@ -27,7 +27,7 @@ public class Hitung {
         double hasil = (double)x/y;
         System.out.println("Hasil: "+ hasil);
     }
-    int sederhana(int x, int y){
+    public int sederhana(int x, int y){
         while(x != 0){
             int temp = y;
             y = x % y;
