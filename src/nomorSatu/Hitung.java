@@ -28,7 +28,7 @@ public class Hitung {
         System.out.println("Hasil: "+ hasil);
     }
     public int sederhana(int x, int y){
-        while(x != 0){
+        while(y != 0){
             int temp = y;
             y = x % y;
             x = temp;
