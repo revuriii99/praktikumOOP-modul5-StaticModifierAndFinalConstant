@@ -1,3 +1,5 @@
+package nomorSatu;
+
 public class Hitung {
 
     static void penjumlahan(int x, int y){

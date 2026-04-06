@@ -1,3 +1,5 @@
+package nomorSatu;
+
 import java.util.Scanner;
 
 public class Main {
